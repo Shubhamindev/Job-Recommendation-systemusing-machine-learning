@@ -23,18 +23,18 @@
    python -m spacy download en_core_web_sm
    
 3. ## 🛠️ How to Use
-### 1. Download Dataset
-### 2. Download the recommendation-system.ipynb
-### 3. Run on Google Colab or Kaggle 
+   1. Download Dataset
+   2. Download the recommendation-system.ipynb
+   3. Run on Google Colab or Kaggle 
 
 ##🤝 Contributing
-### We welcome contributions! Feel free to submit a pull request or raise an issue. Let's make this tool even better.
+ We welcome contributions! Feel free to submit a pull request or raise an issue. Let's make this tool even better.
 
 
 ##📄 License
-** This project is licensed under the MIT License.
+  This project is licensed under the MIT License.
 
 ##👤 Author
-** Developed by Shubham Kumar. Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-2bb56622a/).
+  Developed by Shubham Kumar. Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-2bb56622a/).
 
 
