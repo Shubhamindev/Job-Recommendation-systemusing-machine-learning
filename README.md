@@ -1,4 +1,3 @@
-### Job-Recommendation-systemusing-machine-learning
 # 🏆 **Job Recommendation System** 
 
 > A powerful job recommendation system that extracts skills from resumes and helps match them with relevant job opportunities.
