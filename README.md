@@ -27,14 +27,14 @@
    2. Download the recommendation-system.ipynb
    3. Run on Google Colab or Kaggle 
 
-##🤝 Contributing
+## 🤝 Contributing
  We welcome contributions! Feel free to submit a pull request or raise an issue. Let's make this tool even better.
 
 
-##📄 License
+## 📄 License
   This project is licensed under the MIT License.
 
-##👤 Author
+## 👤 Author
   Developed by Shubham Kumar. Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-kumar-2bb56622a/).
 
 
